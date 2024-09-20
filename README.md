@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Alejandro Aguilera López from Granada, Spain<br><br>
+  - 📚 I am currently studying web application development<br>
+  - ⚡ In my spare time I like to swim </p>
 
 ###
 
