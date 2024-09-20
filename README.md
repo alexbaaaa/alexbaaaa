@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150"  src="https://github.com/alexbaaaa/alexbaaaa/blob/main/pexels-fwstudio-33348-163999.jpg"  />
+  <img  style="width:100%" src="https://github.com/alexbaaaa/alexbaaaa/blob/main/banner (2).png"  />
 </div>
 
 ###
@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Alejandro Aguilera López from Granada, Spain<br><br>
+  - 📚 I am currently studying web application development<br>
+  - ⚡ In my free time I like to swim </p>
 
 ###
 
