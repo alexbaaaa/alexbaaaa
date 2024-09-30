@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h2 align="left">👩‍💻 About Me</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🎓 Technologies and Tools</h3>
+<h2 align="left">🎓 Technologies and Tools</h2>
 
 ### 💡 Languages
 <div align="left">
@@ -82,7 +82,7 @@
 
 
 
-<h3 align="left"> 📊   My Stats :</h3>
+<h2 align="left"> 📊   My Stats :</h2>
 
 ###
 
