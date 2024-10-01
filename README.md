@@ -27,7 +27,7 @@
 
 <h2 align="left">🎓 Technologies and Tools</h2>
 <br>
-### 💡 Languages
+💡 Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 <br>
-### 🚀 Frameworks/Libraries
+🚀 Frameworks/Libraries
 <div align="left">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
   <img width="12" />
@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
 </div>
 <br>
-### 🗄️ Databases
+🗄️ Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
@@ -64,7 +64,7 @@
   <img src="https://cdn.simpleicons.org/mariadb/003545" height="40" alt="mariadb logo" />
 </div>
 <br>
-### 🛠️ Tools
+ 🛠️ Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
