@@ -23,7 +23,7 @@
 </div>
 
 </div>
-
+<br><br>
 ###
 
 <h2 align="left">🎓 Technologies and Tools</h2>
