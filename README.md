@@ -27,8 +27,8 @@
 
 <h2 align="left">🎓 Technologies and Tools</h2>
 <br>
-💡 Languages<br>
-<div align="left">
+💡 Languages
+<div align="left"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
@@ -42,8 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 <br>
-🚀 Frameworks/Libraries<br>
-<div align="left">
+🚀 Frameworks/Libraries
+<div align="left"><br>
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -55,8 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
 </div>
 <br>
-🗄️ Databases<br>
-<div align="left">
+🗄️ Databases<
+<div align="left">br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
@@ -64,8 +64,8 @@
   <img src="https://cdn.simpleicons.org/mariadb/003545" height="40" alt="mariadb logo" />
 </div>
 <br>
- 🛠️ Tools<br>
-<div align="left">
+ 🛠️ Tools
+<div align="left"><br>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
