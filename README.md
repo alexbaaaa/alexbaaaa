@@ -17,5 +17,5 @@
 
 ## Featured projects
 
+- [Final-Project-DAW](https://github.com/alexbaaaa/Final-Project-DAW):Final project for my Higher Degree in Web Application Development, focused on building a complete web application.
 - [MAATETC](https://github.com/alexbaaaa/MAATETC): A project carried out during my work placement at the IAA of the CSIC.
-- [Final-Project-DAW](https://github.com/alexbaaaa/Final-Project-DAW): proyecto final hecho en el grado.
