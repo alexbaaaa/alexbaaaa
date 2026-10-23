@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="1600" height="500" role="img" aria-label="Alejandro Aguilera López — Web Application Developer — Granada">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16161e"/>
+      <stop offset="0.65" stop-color="#1f2335"/>
+      <stop offset="1" stop-color="#2a2f4a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff9e64" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff9e64" stop-opacity="0.18"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#3b4261"/>
+    </pattern>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="1600" height="500" fill="url(#sky)"/>
+  <rect width="1600" height="500" fill="url(#dots)" opacity="0.55"/>
+  <rect y="300" width="1600" height="200" fill="url(#glow)"/>
+
+  <!-- Estrellas -->
+  <g fill="#c0caf5">
+    <circle cx="640" cy="60" r="1.5" opacity="0.7"/>
+    <circle cx="780" cy="110" r="1.2" opacity="0.5"/>
+    <circle cx="900" cy="45" r="1.6" opacity="0.8"/>
+    <circle cx="560" cy="150" r="1" opacity="0.5"/>
+    <circle cx="1040" cy="30" r="1.3" opacity="0.6"/>
+    <circle cx="1520" cy="70" r="1.4" opacity="0.6"/>
+    <circle cx="60" cy="40" r="1.2" opacity="0.5"/>
+  </g>
+
+  <!-- Sierra Nevada -->
+  <g transform="translate(0 70)">
+  <path d="M0 380 L120 300 L210 340 L330 250 L430 320 L540 270 L640 330 L760 280 L880 340 L1000 290 L1120 345 L1240 300 L1360 350 L1480 310 L1600 340 L1600 500 L0 500 Z" fill="#292e42"/>
+  <path d="M330 250 L300 270 L318 268 L330 278 L345 266 L360 272 Z M540 270 L515 286 L530 285 L542 293 L555 284 L566 288 Z M760 280 L735 296 L750 294 L762 302 L775 293 L786 297 Z M1240 300 L1215 316 L1230 314 L1242 322 L1254 313 L1266 317 Z" fill="#a9b1d6" opacity="0.55"/>
+  </g>
+
+  <!-- La Alhambra -->
+  <g fill="#16161e">
+    <path d="M520 500 L560 430 Q700 400 860 405 Q1000 400 1110 425 L1160 500 Z"/>
+    <!-- Alcazaba / Torre de la Vela -->
+    <rect x="590" y="372" width="52" height="60"/>
+    <path d="M588 372 h8 v-8 h8 v8 h8 v-8 h8 v8 h8 v-8 h8 v8 h8 v-8 h4 v8 Z"/>
+    <rect x="645" y="392" width="70" height="40"/>
+    <rect x="718" y="382" width="34" height="50"/>
+    <path d="M716 382 h6 v-6 h6 v6 h6 v-6 h6 v6 h6 v-6 h6 v6 Z"/>
+    <!-- Murallas -->
+    <rect x="752" y="402" width="120" height="30"/>
+    <path d="M752 402 h8 v-6 h8 v6 h8 v-6 h8 v6 h8 v-6 h8 v6 h8 v-6 h8 v6 h8 v-6 h8 v6 h8 v-6 h8 v6 h8 v-6 h8 v6 h8 v-6 h8 v6 h8 v-6 h8 v6 Z"/>
+    <!-- Torre de Comares -->
+    <rect x="872" y="360" width="62" height="72"/>
+    <path d="M870 360 h66 v-6 h-66 Z"/>
+    <!-- Palacios -->
+    <rect x="934" y="392" width="110" height="40"/>
+    <path d="M934 392 L960 380 L1018 380 L1044 392 Z"/>
+    <rect x="1044" y="398" width="30" height="34"/>
+    <path d="M1042 398 h6 v-6 h6 v6 h6 v-6 h6 v6 h6 v-6 h4 v6 Z"/>
+  </g>
+  <!-- Ventanas iluminadas -->
+  <g fill="#ff9e64" opacity="0.85">
+    <rect x="606" y="392" width="5" height="9" rx="2.5"/>
+    <rect x="620" y="392" width="5" height="9" rx="2.5"/>
+    <rect x="890" y="380" width="6" height="11" rx="3"/>
+    <rect x="910" y="380" width="6" height="11" rx="3"/>
+    <rect x="955" y="404" width="5" height="8" rx="2.5"/>
+    <rect x="975" y="404" width="5" height="8" rx="2.5"/>
+    <rect x="995" y="404" width="5" height="8" rx="2.5"/>
+    <rect x="1015" y="404" width="5" height="8" rx="2.5"/>
+  </g>
+  <!-- Cipreses -->
+  <g fill="#1a1b26">
+    <path d="M545 470 q8 -60 16 0 Z"/>
+    <path d="M1110 468 q8 -55 16 0 Z"/>
+    <path d="M1132 472 q7 -45 14 0 Z"/>
+  </g>
+
+  <!-- Texto principal -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="80" y="120" font-family="'Fira Code', Consolas, 'Courier New', monospace" font-size="22" fill="#9ece6a">~/granada $ whoami</text>
+    <text x="80" y="185" font-size="58" font-weight="700" fill="#c0caf5">Alejandro Aguilera López</text>
+    <rect x="80" y="205" width="140" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="80" y="255" font-size="30" font-weight="600" fill="url(#accent)">Web Application Developer</text>
+    <text x="80" y="292" font-size="20" fill="#a9b1d6">Técnico Superior en Desarrollo de Aplicaciones Web</text>
+  </g>
+
+  <!-- Ventana de editor -->
+  <g transform="translate(1110 80)">
+    <rect width="420" height="250" rx="12" fill="#1a1b26" stroke="#3b4261" stroke-width="1.5"/>
+    <path d="M0 12 a12 12 0 0 1 12 -12 h396 a12 12 0 0 1 12 12 v22 h-420 Z" fill="#24283b"/>
+    <circle cx="20" cy="17" r="6" fill="#f7768e"/>
+    <circle cx="40" cy="17" r="6" fill="#e0af68"/>
+    <circle cx="60" cy="17" r="6" fill="#9ece6a"/>
+    <text x="210" y="22" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="13" fill="#565f89">developer.php</text>
+    <g font-family="'Fira Code', Consolas, 'Courier New', monospace" font-size="16">
+      <text x="20" y="66"><tspan fill="#bb9af7">class</tspan><tspan fill="#c0caf5"> </tspan><tspan fill="#2ac3de">Alejandro</tspan><tspan fill="#c0caf5"> {</tspan></text>
+      <text x="40" y="94"><tspan fill="#bb9af7">public</tspan><tspan fill="#c0caf5"> $city = </tspan><tspan fill="#9ece6a">'Granada'</tspan><tspan fill="#c0caf5">;</tspan></text>
+      <text x="40" y="122"><tspan fill="#bb9af7">public</tspan><tspan fill="#c0caf5"> $stack = [</tspan></text>
+      <text x="60" y="150"><tspan fill="#9ece6a">'Laravel'</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">'React'</tspan><tspan fill="#c0caf5">,</tspan></text>
+      <text x="60" y="178"><tspan fill="#9ece6a">'Docker'</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">'PostgreSQL'</tspan></text>
+      <text x="40" y="206"><tspan fill="#c0caf5">];</tspan></text>
+      <text x="20" y="226" fill="#c0caf5">}<tspan fill="#7aa2f7">▍</tspan></text>
+    </g>
+  </g>
+</svg>

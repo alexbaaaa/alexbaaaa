@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="banner.png" alt="Banner" />
+  <img width="100%" src="banner.svg" alt="Alejandro Aguilera López — Web Application Developer — Granada" />
 </div>
 
 <div align="center">
