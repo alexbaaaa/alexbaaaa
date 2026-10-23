@@ -100,7 +100,7 @@
       <text x="20" y="66"><tspan fill="#bb9af7">class</tspan><tspan fill="#c0caf5"> </tspan><tspan fill="#2ac3de">Alejandro</tspan><tspan fill="#c0caf5"> {</tspan></text>
       <text x="40" y="94"><tspan fill="#bb9af7">public</tspan><tspan fill="#c0caf5"> $city = </tspan><tspan fill="#9ece6a">'Granada'</tspan><tspan fill="#c0caf5">;</tspan></text>
       <text x="40" y="122"><tspan fill="#bb9af7">public</tspan><tspan fill="#c0caf5"> $stack = [</tspan></text>
-      <text x="60" y="150"><tspan fill="#9ece6a">'Laravel'</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">'React'</tspan><tspan fill="#c0caf5">,</tspan></text>
+      <text x="60" y="150"><tspan fill="#9ece6a">'Laravel'</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">'Java'</tspan><tspan fill="#c0caf5">,</tspan></text>
       <text x="60" y="178"><tspan fill="#9ece6a">'Docker'</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">'PostgreSQL'</tspan></text>
       <text x="40" y="206"><tspan fill="#c0caf5">];</tspan></text>
       <text x="20" y="226" fill="#c0caf5">}<tspan fill="#7aa2f7">▍</tspan></text>

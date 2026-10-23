@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://alexbadev.es">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Alejandro+Aguilera+L%C3%B3pez+%F0%9F%91%8B;Web+Application+Developer;Laravel+%7C+React+%7C+Docker;Based+in+Granada%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Alejandro+Aguilera+L%C3%B3pez+%F0%9F%91%8B;Web+Application+Developer;Java+%7C+JavaScript+%7C+TypeScript;Laravel+%7C+React+%7C+Node.js;Based+in+Granada%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 I'm **Alejandro Aguilera López**, a **Higher Technician in Web Application Development** (*Técnico Superior en DAW*) from Granada, Spain.
 I enjoy building complete web applications: from the backend and database to the frontend and the infrastructure that runs them.
 
-- 🛠️ Working mainly with **Laravel**, **React** and **Docker**
+- 🛠️ Working mainly with **Java**, **JavaScript** and **TypeScript**, using **Laravel**, **React** and **Node.js**, deployed with **Docker** and **Nginx**
 - 🔬 Did my work placement at the **IAA – CSIC** (Instituto de Astrofísica de Andalucía)
 - 🌱 Currently learning about self-hosting, reverse proxies and DevOps with my own home server
 - 📫 Reach me at **[aalejandrodesarrollo@gmail.com](mailto:aalejandrodesarrollo@gmail.com)**
@@ -33,7 +33,7 @@ I enjoy building complete web applications: from the backend and database to the
 Soy **Alejandro Aguilera López**, **Técnico Superior en Desarrollo de Aplicaciones Web** de Granada.
 Me gusta construir aplicaciones web completas: backend, base de datos, frontend y la infraestructura que las pone en marcha.
 
-- 🛠️ Trabajo principalmente con **Laravel**, **React** y **Docker**
+- 🛠️ Trabajo principalmente con **Java**, **JavaScript** y **TypeScript**, con **Laravel**, **React** y **Node.js**, desplegando con **Docker** y **Nginx**
 - 🔬 Realicé mis prácticas en el **IAA – CSIC** (Instituto de Astrofísica de Andalucía)
 - 🌱 Ahora mismo aprendiendo self-hosting y DevOps con mi propio servidor casero
 - 📫 Contacto: **[aalejandrodesarrollo@gmail.com](mailto:aalejandrodesarrollo@gmail.com)** · Portfolio: **[alexbadev.es](https://alexbadev.es)**
@@ -45,9 +45,17 @@ Me gusta construir aplicaciones web completas: backend, base de datos, frontend 
 ## 🧰 Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,vite,js,html,css,sass,python&perline=9" alt="Languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,nginx,mysql,postgres,wordpress,git,github,linux,vscode&perline=9" alt="Tools" />
+
+| | |
+| :---: | :---: |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts,php,html,css" alt="Java, JavaScript, TypeScript, PHP, HTML, CSS" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=laravel,react" alt="Laravel, React" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" /> |
+| **Technologies** | <img src="https://skillicons.dev/icons?i=nodejs,docker,nginx" alt="Node.js, Docker, Nginx" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux, VS Code" /> |
+
+<sub>Also worked with: Python · WordPress · Vite · Sass</sub>
+
 </div>
 
 ---
@@ -72,7 +80,7 @@ Me gusta construir aplicaciones web completas: backend, base de datos, frontend 
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexbaaaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbaaaa&layout=compact&langs_count=8&exclude_repo=Final-Project-DAW&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbaaaa&layout=compact&langs_count=8&exclude_repo=Final-Project-DAW,MAATETC&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=alexbaaaa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
